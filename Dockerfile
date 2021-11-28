@@ -1,3 +1,3 @@
-FROM ghost:3.1.1
+FROM ghost:latest
 
 ADD nginx.conf.sigil .
